@@ -42,4 +42,4 @@ mysql:<用户名>:<密码>@tcp(<数据库地址>)/<库名>?loc=Local&parseTime=t
 ```
 3、直接运行项目根目录的 `main.go` 就可以跑起来啦~
 ## 前端项目
-本仓库是后端项目，对应前端项目地址为：
+本仓库是后端项目，对应前端项目地址为：https://gitee.com/dai4371/opshub-fe
